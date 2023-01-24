@@ -1,0 +1,23 @@
+.box1{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+}
+.box2{
+    float: right;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+imag{
+    float: left;
+    width: 200px;
+}
+h1{
+    clear: left;
+}
+p{
+    clear: left;
+}
